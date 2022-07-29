@@ -10,3 +10,8 @@ Name       Year of joining      Salary             Address
 Robert     1994                 70000              64C- WallsStreat
 Sam        2000                 50000              68D- WallsStreat
 John       1999                 54000              26B- WallsStrea
+
+3. Write a program for Spy Number
+Let's take the number 1124 and check whether the number is a spy or not. 
+Sum=1+1+2+4=8
+Product=1*1*2*4=8
